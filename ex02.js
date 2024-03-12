@@ -1,3 +1,4 @@
+// declaro valor de x
 let x = 2;
 let y = 5;
 let re = (x + y);
