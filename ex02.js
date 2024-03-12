@@ -4,4 +4,4 @@ let x = 2;
 let y = 5;
 let re = (x - y);
 let m = "o resultado é:";
-console.log(m + r);
+console.log(m + r); // exibo m + r 
