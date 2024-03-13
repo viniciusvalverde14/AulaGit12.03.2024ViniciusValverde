@@ -1,7 +1,7 @@
 // declaro valor de x
-let x = 2;
+let a = 2;
 // declaro valor de y
-let y = 5;
-let resultado = (x + y);
+let b = 5;
+let resultado = (a + b);
 let mensagem = "o resultado foi";
 console.log(mensagem + resultado); // exibo 
