@@ -1,7 +1,7 @@
 // declaro valor de x
-let n1 = 2;
+let x = 2;
 // declaro valor de y
-let n2 = 5;
-let result = (x - y);
-let mens = "o resultado foi";
-console.log(mens + result); // exibo m + r 
+let y = 5;
+let resultado = (x + y);
+let mensagem = "o resultado foi";
+console.log(mensagem + resultado); // exibo 
