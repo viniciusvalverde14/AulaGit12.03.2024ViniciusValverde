@@ -1,5 +1,5 @@
 // declaro valor de x
-let a = 2;
+let a = 10;
 // declaro valor de y
 let b = 5;
 let resultado = (a + b);
